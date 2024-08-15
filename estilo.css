@@ -1,3 +1,7 @@
+* {
+    margin: 0px;
+}
+
 #titulo {
     color: red;
     text-align: center;
@@ -5,4 +9,19 @@
 
 .texto-paragrafo {
     text-align: center;
+}
+
+.entradas-usuario {
+    border: 1px solid;
+    width: 50%;
+    margin: auto;
+}
+
+.rodape {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
