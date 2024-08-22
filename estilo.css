@@ -1,6 +1,8 @@
 * {
     margin: 0px;
+    /*box-sizing: border-box;*/
 }
+
 
 #titulo {
     color: red;
@@ -28,4 +30,8 @@
     background-color: #ccc;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+input {
+    display: block;
 }
